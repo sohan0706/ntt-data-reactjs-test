@@ -1,0 +1,17 @@
+html, body, #root, .App {
+  height: 100%;
+}
+
+.App .header{
+  height: 60px;
+  background-color: #00adff;
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+}
+.App .header h4{
+  font-size: 18px;
+}
+.coins-container {
+  padding: 25px;
+}
